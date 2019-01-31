@@ -1,1 +1,2 @@
-ci cs
+ci: cs
+c2: xx
